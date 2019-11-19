@@ -1,5 +1,6 @@
 {
   "main": "app.js",
+  "cssParser": "css-tree",
   "android": {
     "v8Flags": "--expose_gc"
   }
